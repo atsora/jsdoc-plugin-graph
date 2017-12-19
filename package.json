@@ -1,0 +1,14 @@
+{
+  "name": "jsdoc-plugin-graph",
+  "description": "Plugin for JSDoc",
+  "version": "0.0.1",
+  "homepage": "https://github.com/lemoineat",
+  "license": "MIT",
+
+  "author": "Nicolas Relange <nrelange@lemoinetechnologies.com>",
+
+  "keywords": [
+    "jsdoc-plugins",
+    "jsdoc"
+  ]
+}
