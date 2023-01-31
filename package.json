@@ -1,14 +1,16 @@
 {
-  "name": "jsdoc-plugin-graph",
+  "name": "@lemoineat/jsdoc-plugin-graph",
   "description": "Plugin for JSDoc",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "homepage": "https://github.com/lemoineat",
   "license": "MIT",
-
-  "author": "Nicolas Relange <nrelange@lemoinetechnologies.com>",
-
+  "author": "Lemoine Automation Technologies, Nicolas Relange <nrelange@lemoinetechnologies.com>",
   "keywords": [
     "jsdoc-plugins",
     "jsdoc"
-  ]
+  ],
+  "files": [ "**", "!.git/**", "!.gitignore", "!.gitattributes", "!.eslintrc.json", "!.vscode/**" ],
+  "devDependencies": {
+    "@jsdoc/util": "~0.2.8"
+  }
 }

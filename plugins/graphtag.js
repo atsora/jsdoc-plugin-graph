@@ -3,8 +3,6 @@
  */
 'use strict';
 
-var logger = require('jsdoc/util/logger');
-
 exports.defineTags = function (dictionary) {
   dictionary.defineTag('graph', {
     mustHaveValue: true,
